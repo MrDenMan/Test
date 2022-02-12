@@ -12,3 +12,5 @@ arr.each do |hash|
 end
 #puts all_values[0].class
 puts all_values
+
+puts all_values.inject(:+)
