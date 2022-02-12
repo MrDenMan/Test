@@ -5,3 +5,10 @@ arr.each do |hash|
 end
 #puts all_keys[0].class
 puts all_keys
+
+all_values = []
+arr.each do |hash|
+  hash.values.each {|value| all_values << value}
+end
+#puts all_values[0].class
+puts all_values
