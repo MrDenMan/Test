@@ -69,6 +69,10 @@ class StudentsController < ApplicationController
     render json: Student.where("created_at >= 2020-09-01").count
   end
 
+  def students_with_parents
+    render json: Student.where(parent_id: Parent.all.ids).count
+  end
+
   private
     # Use callbacks to share common setup or constraints between actions.
     def set_student
