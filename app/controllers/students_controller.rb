@@ -61,6 +61,10 @@ class StudentsController < ApplicationController
     render json: Student.count
   end
 
+  def calc_count_ivan
+    render json: Student.where(name: 'Иван').count
+  end
+
   private
     # Use callbacks to share common setup or constraints between actions.
     def set_student
