@@ -73,6 +73,10 @@ class StudentsController < ApplicationController
     render json: Student.where(parent_id: Parent.all.ids).count
   end
 
+  def students_with_parent_marina
+    render json: (Student.where(parent_id: Parent.all.ids) and Parent.where(name: 'Марина')).count
+  end
+
   private
     # Use callbacks to share common setup or constraints between actions.
     def set_student
