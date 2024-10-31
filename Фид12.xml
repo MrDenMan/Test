@@ -10,7 +10,6 @@
 <Latitude>58.6034972</Latitude>
 <Longitude>49.6680445</Longitude>
 <Price>696235</Price>
-<Square>30.3</Square>
 <CadastralNumber>30:09:163526:811</CadastralNumber>
 <TradeURL>https://torgi.gov.ru/new/public/lots/lot/21000001250000001002_1</TradeURL>
 <OperationType>Продам</OperationType>
@@ -18,10 +17,7 @@
 <ContactPhone>+7 817 272-13-43</ContactPhone>
 <EMail>yuliya.burmatikova@rosim.gov.ru</EMail>
 <BuiltYear>1993</BuiltYear>
-<ParkingType>Нет</ParkingType>
-<Decoration>Без отделки</Decoration>
 <Floors>1</Floors>
-<LandArea>12141</LandArea>
 <Images>
 <Image url="https://hb.bizmrg.com/prod_pledges_photo/V26176411_656522.jpg"/>
 <Image url="https://hb.bizmrg.com/prod_pledges_photo/V26176411_656523.jpg"/>
@@ -51,12 +47,9 @@
 <EMail>yuliya.burmatikova@rosim.gov.ru</EMail>
 <BuiltYear>1993</BuiltYear>
 <CadastralNumber>30:09:163526:812</CadastralNumber>
-<ParkingType>Нет</ParkingType>
-<Decoration>Без отделки</Decoration>
 <Floors>1</Floors>
 <PowerGridCapacity>1141</PowerGridCapacity>
 <Heating>Нет</Heating>
-<Floor>1</Floor>
 <Images>
 <Image url="https://hb.bizmrg.com/prod_pledges_photo/V26176411_656522.jpg"/>
 <Image url="https://hb.bizmrg.com/prod_pledges_photo/V26176411_656523.jpg"/>
@@ -78,7 +71,6 @@
 <Latitude>58.6034972</Latitude>
 <Longitude>49.6680445</Longitude>
 <Price>696235</Price>
-<Square>30.3</Square>
 <CadastralNumber>30:09:163526:813</CadastralNumber>
 <BuiltYear>1993</BuiltYear>
 <PowerGridCapacity>1141</PowerGridCapacity>
@@ -112,7 +104,6 @@
 <Square>30.3</Square>
 <CadastralNumber>30:09:163526:814</CadastralNumber>
 <BuiltYear>1993</BuiltYear>
-<Decoration>Без отделки</Decoration>
 <Entrance>С улицы</Entrance>
 <PowerGridCapacity>1141</PowerGridCapacity>
 <Heating>Нет</Heating>
@@ -143,7 +134,6 @@
 <Latitude>58.6034972</Latitude>
 <Longitude>49.6680445</Longitude>
 <Price>696235</Price>
-<Square>30.3</Square>
 <CadastralNumber>30:09:163526:815</CadastralNumber>
 <BuiltYear>1993</BuiltYear>
 <PowerGridCapacity>1141</PowerGridCapacity>
