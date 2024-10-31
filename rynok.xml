@@ -1,8 +1,8 @@
 <Ads>
 <Ad>
-<Id>явап2as3a5</Id>
-<Title>Рынок / оптовая база..</Title>
-<Category>Рынок / оптовая база</Category>
+<Id>124аипas4</Id>
+<Title>Многоквартирный жилой комплекс</Title>
+<Category>Многоквартирный жилой комплекс</Category>
 <Description>
 <![CDATA[ Жилое помещение – квартира, площадью 30,3 кв.м., расположенная по адресу: Вологодская область, Великоустюгский р-он, п. Кузино, ул. Двинская, д. 22, кв. 1<br/>Кадастровый номер: 35:10:0301015:107<br/>Общая площадь объекта недвижимости, м2: 30.3<br/>Ссылка на Торги: https://torgi.gov.ru/new/public/lots/lot/21000001250000001002_1<br/>Адрес: обл Вологодская Вологодская область, Великоустюгский р-он, п. Кузино, ул. Двинская, д. 22, кв. 1 ]]>
 </Description>
@@ -11,18 +11,17 @@
 <Longitude>49.6680445</Longitude>
 <Price>696235</Price>
 <Square>30.3</Square>
-<CadastralNumber>30:09:163526:814</CadastralNumber>
-<BuiltYear>1993</BuiltYear>
-<Decoration>Без отделки</Decoration>
-<Entrance>С улицы</Entrance>
-<PowerGridCapacity>1141</PowerGridCapacity>
-<Heating>Нет</Heating>
-<Floors>1</Floors>
+<CadastralNumber>30:09:163526:811</CadastralNumber>
 <TradeURL>https://torgi.gov.ru/new/public/lots/lot/21000001250000001002_1</TradeURL>
 <OperationType>Продам</OperationType>
 <ManagerName>Бурматикова Юлия Олеговна</ManagerName>
 <ContactPhone>+7 817 272-13-43</ContactPhone>
 <EMail>yuliya.burmatikova@rosim.gov.ru</EMail>
+<BuiltYear>1993</BuiltYear>
+<ParkingType>Нет</ParkingType>
+<Decoration>Без отделки</Decoration>
+<Floors>1</Floors>
+<LandArea>12141</LandArea>
 <Images>
 <Image url="https://hb.bizmrg.com/prod_pledges_photo/V26176411_656522.jpg"/>
 <Image url="https://hb.bizmrg.com/prod_pledges_photo/V26176411_656523.jpg"/>
