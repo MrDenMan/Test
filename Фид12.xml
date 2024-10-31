@@ -10,6 +10,10 @@
 <Latitude>58.6034972</Latitude>
 <Longitude>49.6680445</Longitude>
 <Price>696235</Price>
+<Square>30.3</Square>
+<ParkingType>Нет</ParkingType>
+<LandArea>9.67</LandArea>
+<Decoration>Без отделки</Decoration>
 <CadastralNumber>30:09:163526:811</CadastralNumber>
 <TradeURL>https://torgi.gov.ru/new/public/lots/lot/21000001250000001002_1</TradeURL>
 <OperationType>Продам</OperationType>
@@ -39,7 +43,10 @@
 <Latitude>58.6034972</Latitude>
 <Longitude>49.6680445</Longitude>
 <Price>696235</Price>
+<Floors>1</Floors>
 <Square>30.3</Square>
+<ParkingType>Нет</ParkingType>
+<Decoration>Без отделки</Decoration>
 <TradeURL>https://torgi.gov.ru/new/public/lots/lot/21000001250000001002_1</TradeURL>
 <OperationType>Продам</OperationType>
 <ManagerName>Бурматикова Юлия Олеговна</ManagerName>
@@ -75,6 +82,7 @@
 <BuiltYear>1993</BuiltYear>
 <PowerGridCapacity>1141</PowerGridCapacity>
 <Heating>Нет</Heating>
+<Square>30.3</Square>
 <TradeURL>https://torgi.gov.ru/new/public/lots/lot/21000001250000001002_1</TradeURL>
 <OperationType>Продам</OperationType>
 <ManagerName>Бурматикова Юлия Олеговна</ManagerName>
@@ -105,6 +113,7 @@
 <CadastralNumber>30:09:163526:814</CadastralNumber>
 <BuiltYear>1993</BuiltYear>
 <Entrance>С улицы</Entrance>
+<Decoration>Без отделки</Decoration>
 <PowerGridCapacity>1141</PowerGridCapacity>
 <Heating>Нет</Heating>
 <Floors>1</Floors>
@@ -138,8 +147,10 @@
 <BuiltYear>1993</BuiltYear>
 <PowerGridCapacity>1141</PowerGridCapacity>
 <Heating>Нет</Heating>
+<Square>30.3</Square>
 <TradeURL>https://torgi.gov.ru/new/public/lots/lot/21000001250000001002_1</TradeURL>
 <OperationType>Продам</OperationType>
+<Square>30.3</Square>
 <ManagerName>Бурматикова Юлия Олеговна</ManagerName>
 <ContactPhone>+7 817 272-13-43</ContactPhone>
 <EMail>yuliya.burmatikova@rosim.gov.ru</EMail>
