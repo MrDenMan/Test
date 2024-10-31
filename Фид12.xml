@@ -1,7 +1,7 @@
 <Ads>
 <Ad>
-<Id>12224аиdп4</Id>
-<Title>Многок1вартирный жилой комплекс</Title>
+<Id>124аип4</Id>
+<Title>Многоквартирный жилой комплекс</Title>
 <Category>Многоквартирный жилой комплекс</Category>
 <Description>
 <![CDATA[ Жилое помещение – квартира, площадью 30,3 кв.м., расположенная по адресу: Вологодская область, Великоустюгский р-он, п. Кузино, ул. Двинская, д. 22, кв. 1<br/>Кадастровый номер: 35:10:0301015:107<br/>Общая площадь объекта недвижимости, м2: 30.3<br/>Ссылка на Торги: https://torgi.gov.ru/new/public/lots/lot/21000001250000001002_1<br/>Адрес: обл Вологодская Вологодская область, Великоустюгский р-он, п. Кузино, ул. Двинская, д. 22, кв. 1 ]]>
@@ -11,9 +11,6 @@
 <Longitude>49.6680445</Longitude>
 <Price>696235</Price>
 <Square>30.3</Square>
-<ParkingType>Нет</ParkingType>
-<LandArea>9.67</LandArea>
-<Decoration>Без отделки</Decoration>
 <CadastralNumber>30:09:163526:811</CadastralNumber>
 <TradeURL>https://torgi.gov.ru/new/public/lots/lot/21000001250000001002_1</TradeURL>
 <OperationType>Продам</OperationType>
@@ -21,7 +18,10 @@
 <ContactPhone>+7 817 272-13-43</ContactPhone>
 <EMail>yuliya.burmatikova@rosim.gov.ru</EMail>
 <BuiltYear>1993</BuiltYear>
+<ParkingType>Нет</ParkingType>
+<Decoration>Без отделки</Decoration>
 <Floors>1</Floors>
+<LandArea>12141</LandArea>
 <Images>
 <Image url="https://hb.bizmrg.com/prod_pledges_photo/V26176411_656522.jpg"/>
 <Image url="https://hb.bizmrg.com/prod_pledges_photo/V26176411_656523.jpg"/>
@@ -33,8 +33,8 @@
 </Images>
 </Ad>
 <Ad>
-<Id>в2выsрd3427</Id>
-<Title>Хо1стел..</Title>
+<Id>ввыр3427</Id>
+<Title>Хостел..</Title>
 <Category>Хостел</Category>
 <Description>
 <![CDATA[ Жилое помещение – квартира, площадью 30,3 кв.м., расположенная по адресу: Вологодская область, Великоустюгский р-он, п. Кузино, ул. Двинская, д. 22, кв. 1<br/>Кадастровый номер: 35:10:0301015:107<br/>Общая площадь объекта недвижимости, м2: 30.3<br/>Ссылка на Торги: https://torgi.gov.ru/new/public/lots/lot/21000001250000001002_1<br/>Адрес: обл Вологодская Вологодская область, Великоустюгский р-он, п. Кузино, ул. Двинская, д. 22, кв. 1 ]]>
@@ -43,11 +43,7 @@
 <Latitude>58.6034972</Latitude>
 <Longitude>49.6680445</Longitude>
 <Price>696235</Price>
-<Floors>1</Floors>
-<Floor>2</Floor>
 <Square>30.3</Square>
-<ParkingType>Нет</ParkingType>
-<Decoration>Без отделки</Decoration>
 <TradeURL>https://torgi.gov.ru/new/public/lots/lot/21000001250000001002_1</TradeURL>
 <OperationType>Продам</OperationType>
 <ManagerName>Бурматикова Юлия Олеговна</ManagerName>
@@ -55,9 +51,12 @@
 <EMail>yuliya.burmatikova@rosim.gov.ru</EMail>
 <BuiltYear>1993</BuiltYear>
 <CadastralNumber>30:09:163526:812</CadastralNumber>
+<ParkingType>Нет</ParkingType>
+<Decoration>Без отделки</Decoration>
 <Floors>1</Floors>
 <PowerGridCapacity>1141</PowerGridCapacity>
 <Heating>Нет</Heating>
+<Floor>1</Floor>
 <Images>
 <Image url="https://hb.bizmrg.com/prod_pledges_photo/V26176411_656522.jpg"/>
 <Image url="https://hb.bizmrg.com/prod_pledges_photo/V26176411_656523.jpg"/>
@@ -69,8 +68,8 @@
 </Images>
 </Ad>
 <Ad>
-<Id>ап2фaук34d51</Id>
-<Title>Нефте1перерабатывающий завод..</Title>
+<Id>апфук3451</Id>
+<Title>Нефтеперерабатывающий завод..</Title>
 <Category>Нефтеперерабатывающий завод</Category>
 <Description>
 <![CDATA[ Жилое помещение – квартира, площадью 30,3 кв.м., расположенная по адресу: Вологодская область, Великоустюгский р-он, п. Кузино, ул. Двинская, д. 22, кв. 1<br/>Кадастровый номер: 35:10:0301015:107<br/>Общая площадь объекта недвижимости, м2: 30.3<br/>Ссылка на Торги: https://torgi.gov.ru/new/public/lots/lot/21000001250000001002_1<br/>Адрес: обл Вологодская Вологодская область, Великоустюгский р-он, п. Кузино, ул. Двинская, д. 22, кв. 1 ]]>
@@ -79,11 +78,11 @@
 <Latitude>58.6034972</Latitude>
 <Longitude>49.6680445</Longitude>
 <Price>696235</Price>
+<Square>30.3</Square>
 <CadastralNumber>30:09:163526:813</CadastralNumber>
 <BuiltYear>1993</BuiltYear>
 <PowerGridCapacity>1141</PowerGridCapacity>
 <Heating>Нет</Heating>
-<Square>30.3</Square>
 <TradeURL>https://torgi.gov.ru/new/public/lots/lot/21000001250000001002_1</TradeURL>
 <OperationType>Продам</OperationType>
 <ManagerName>Бурматикова Юлия Олеговна</ManagerName>
@@ -100,8 +99,8 @@
 </Images>
 </Ad>
 <Ad>
-<Id>яв2аsп23d51</Id>
-<Title>Рын1ок / оптовая база..</Title>
+<Id>явап235</Id>
+<Title>Рынок / оптовая база..</Title>
 <Category>Рынок / оптовая база</Category>
 <Description>
 <![CDATA[ Жилое помещение – квартира, площадью 30,3 кв.м., расположенная по адресу: Вологодская область, Великоустюгский р-он, п. Кузино, ул. Двинская, д. 22, кв. 1<br/>Кадастровый номер: 35:10:0301015:107<br/>Общая площадь объекта недвижимости, м2: 30.3<br/>Ссылка на Торги: https://torgi.gov.ru/new/public/lots/lot/21000001250000001002_1<br/>Адрес: обл Вологодская Вологодская область, Великоустюгский р-он, п. Кузино, ул. Двинская, д. 22, кв. 1 ]]>
@@ -113,8 +112,8 @@
 <Square>30.3</Square>
 <CadastralNumber>30:09:163526:814</CadastralNumber>
 <BuiltYear>1993</BuiltYear>
-<Entrance>С улицы</Entrance>
 <Decoration>Без отделки</Decoration>
+<Entrance>С улицы</Entrance>
 <PowerGridCapacity>1141</PowerGridCapacity>
 <Heating>Нет</Heating>
 <Floors>1</Floors>
@@ -134,8 +133,8 @@
 </Images>
 </Ad>
 <Ad>
-<Id>я2вап2s35d52</Id>
-<Title>Предпр1иятие по производству пищевых продуктов/напитков..</Title>
+<Id>явап235</Id>
+<Title>Предприятие по производству пищевых продуктов/напитков..</Title>
 <Category>Предприятие по производству пищевых продуктов/напитков</Category>
 <Description>
 <![CDATA[ Жилое помещение – квартира, площадью 30,3 кв.м., расположенная по адресу: Вологодская область, Великоустюгский р-он, п. Кузино, ул. Двинская, д. 22, кв. 1<br/>Кадастровый номер: 35:10:0301015:107<br/>Общая площадь объекта недвижимости, м2: 30.3<br/>Ссылка на Торги: https://torgi.gov.ru/new/public/lots/lot/21000001250000001002_1<br/>Адрес: обл Вологодская Вологодская область, Великоустюгский р-он, п. Кузино, ул. Двинская, д. 22, кв. 1 ]]>
@@ -144,13 +143,13 @@
 <Latitude>58.6034972</Latitude>
 <Longitude>49.6680445</Longitude>
 <Price>696235</Price>
+<Square>30.3</Square>
 <CadastralNumber>30:09:163526:815</CadastralNumber>
 <BuiltYear>1993</BuiltYear>
 <PowerGridCapacity>1141</PowerGridCapacity>
 <Heating>Нет</Heating>
 <TradeURL>https://torgi.gov.ru/new/public/lots/lot/21000001250000001002_1</TradeURL>
 <OperationType>Продам</OperationType>
-<Square>33.3</Square>
 <ManagerName>Бурматикова Юлия Олеговна</ManagerName>
 <ContactPhone>+7 817 272-13-43</ContactPhone>
 <EMail>yuliya.burmatikova@rosim.gov.ru</EMail>
@@ -165,12 +164,12 @@
 </Images>
 </Ad>
 <Ad>
-<Id>004ee29b4-977ss7-4b34-9cad-491c45025675</Id>
+<Id>004ee9b4-9777-4b34-9cad-491c45025675</Id>
 <Category>Земельные участки</Category>
 <ObjectType>Поселений (ИЖС)</ObjectType>
 <CadastralNumber>61:50:0060108:176</CadastralNumber>
 <LandArea>9.67</LandArea>
-<Title>Земе1льный участок 9.67 сот.</Title>
+<Title>Земельный участок 9.67 сот.</Title>
 <Description>
 <![CDATA[ Вид разрешённого использования: Ведение садоводства<br/>Особенности вовлечения: арест наложенный судебным приставом-исполнителем <br/>Кадастровый номер: 61:50:0060108:176<br/>Ссылка на Торги: https://torgi.gov.ru/new/public/lots/lot/21000007570000000178_31<br/>Адрес: обл Ростовская ]]>
 </Description>
@@ -183,12 +182,12 @@
 <EMail>a.orehova@rosim.gov.ru</EMail>
 </Ad>
 <Ad>
-<Id>005es2173-25372-4es88-a3d3-cecc73354798</Id>
+<Id>005e2173-5372-4e88-a3d3-cecc73354798</Id>
 <Category>Земельные участки</Category>
 <ObjectType>Сельхозназначения (СНТ, ДНП)</ObjectType>
 <CadastralNumber>61:01:0600003:147</CadastralNumber>
 <LandArea>5.4</LandArea>
-<Title>Земе1льный участок 5.4 сот.</Title>
+<Title>Земельный участок 5.4 сот.</Title>
 <Description>
 <![CDATA[ Вид разрешённого использования: Жилая застройка<br/>Особенности вовлечения: арест наложенный судебным приставом-исполнителем <br/>Кадастровый номер: 61:01:0600003:1441<br/>Ссылка на Торги: https://torgi.gov.ru/new/public/lots/lot/21000007570000000178_40<br/>Адрес: обл Ростовская ]]>
 </Description>
@@ -201,12 +200,12 @@
 <EMail>a.orehova@rosim.gov.ru</EMail>
 </Ad>
 <Ad>
-<Id>11745s402b-27cc-4sb31-ad50-8fc85b0ddc12</Id>
+<Id>1174540b-27cc-4b31-ad50-8fc85b0ddc92</Id>
 <Category>Земельные участки</Category>
 <ObjectType>Промназначения</ObjectType>
 <CadastralNumber>27:17:0601001:728</CadastralNumber>
 <LandArea>11.89</LandArea>
-<Title>Зем1ельный участок 11.89 сот.</Title>
+<Title>Земельный участок 11.89 сот.</Title>
 <Description>
 <![CDATA[ Вид разрешённого использования: Для ведения личного подсобного хозяйства (приусадебный земельный участок)<br/>Кадастровый номер: 27:17:0601001:725<br/>Ссылка на Торги: https://torgi.gov.ru/new/public/lots/lot/21000029830000001686_23<br/>Адрес: край Хабаровский Хабаровский край, с. Краснореченское, ул. Новая, д. 1. ]]>
 </Description>
@@ -219,10 +218,10 @@
 <EMail>yuliya.nikulina@rosim.gov.ru</EMail>
 </Ad>
 <Ad>
-<Id>1174s5420b-27cc-4sb31-ad50-8fc85b0ddc92</Id>
+<Id>1174540b-27cc-4b31-ad50-8fc85b0ddc92</Id>
 <Category>Месторождение / скважина / карьер</Category>
 <CadastralNumber>27:17:0601001:721</CadastralNumber>
-<Title>Место1рождение / скважина / карьер.</Title>
+<Title>Месторождение / скважина / карьер.</Title>
 <Description>
 <![CDATA[ Вид разрешённого использования: Для ведения личного подсобного хозяйства (приусадебный земельный участок)<br/>Кадастровый номер: 27:17:0601001:725<br/>Ссылка на Торги: https://torgi.gov.ru/new/public/lots/lot/21000029830000001686_23<br/>Адрес: край Хабаровский Хабаровский край, с. Краснореченское, ул. Новая, д. 1. ]]>
 </Description>
@@ -235,9 +234,9 @@
 <EMail>yuliya.nikulina@rosim.gov.ru</EMail>
 </Ad>
 <Ad>
-<Id>00918bf2db-0b39-4968-bds13-fcbfa8c2352а1</Id>
+<Id>00918bfb-0b39-4968-bd13-fcbfa8c2352а1</Id>
 <Category>Иная спецтехника</Category>
-<Title>Ин1ая спецтехника...</Title>
+<Title>Иная спецтехника...</Title>
 <Description>
 <![CDATA[ 1) Мотоцикл ИЖ Юпитер-4, - 1 шт.; 2) Мотоцикл ИЖ Юпитер-5, 1989 года выпуска - 1 шт.; 3) Мотоцикл ИЖ Юпитер-5 - 1 шт. (Уведомление от 08.05.2024 г. №7 А)<br/>Ссылка на Торги: https://torgi.gov.ru/new/public/lots/lot/21000016080000002061_2<br/>Адрес: обл Кировская Кировская область, п.г.т. Оричи, ул. Комсомольская д.51. ]]>
 </Description>
